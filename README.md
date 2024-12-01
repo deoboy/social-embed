@@ -4,14 +4,13 @@ A simple Social Media Embed plugin that embed social media Posts inside Article 
 ## Table of Contents
 
 1. [How to embed Youtube Video
-2. [Features](#features)
-3. [How to embed Instagram posts
-4. [How to embed Facebook Posts
-5. [How to embed Tiktok Video
-6. [How to embed Twitter Posts
-7. [How to embed Google Map
-8. [How to embed Custom Javascript
-9. [How to embed Custom HTML
+2. [How to embed Instagram posts
+3. [How to embed Facebook Posts
+4. [How to embed Tiktok Video
+5. [How to embed Twitter Posts
+6. [How to embed Google Map
+7. [How to embed Custom Javascript
+8. [How to embed Custom HTML
 
 ---
 
