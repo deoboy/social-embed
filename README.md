@@ -16,7 +16,7 @@ A simple Social Media Embed plugin that embed social media Posts inside Article 
 
 ## Introduction
 
-A flexible and lightweight solution for embedding social media content on your website. Easily integrates with platforms like YouTube, Instagram, Facebook  etc.
+A flexible and lightweight solution for embedding social media content on your website. Easily integrates with platforms like YouTube, Instagram, Facebook and more.
 
 ## Features
 
