@@ -20,7 +20,7 @@ A flexible and lightweight solution for embedding social media content on your w
 
 ## Features
 
-- Feature 1: Simple and easy to embed social posts or videos
+- Feature 1: Simple and easy to embed social posts and videos
 - Feature 2: A simple plugin but flexible. Not only embed social media posts and videos but  can also embed Google Map, Custom Javascript and Custom HTML
  
 
