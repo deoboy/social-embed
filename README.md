@@ -1,6 +1,6 @@
 # Custom Social Media Embed
 
-A simple Social Media Embed plugin that embed social media Posts inside Article Posts Pages
+A simple Social Media Embed plugin that embeds social media Posts inside Article Posts Pages
 ## Table of Contents
 
 1. [How to embed Youtube Video
